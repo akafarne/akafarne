@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akafarne
 
 - 📚 I’m currently studying at Unibo https://corsi.unibo.it/laurea/InformaticaManagement
-- 👩‍💻 I’m currently working for Olio SB https://www.oliosb.it/ with https://www.lunapartner.it/
+- 👩‍💻 I’m currently working for Olio SB https://www.oliosb.it/
 
 
 <!---
